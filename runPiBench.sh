@@ -6,5 +6,5 @@ cd "$PBS_O_WORKDIR"
 ./piBench1
 ./piBench2
 ./piBench3
-./vectorTri
+# ./vectorTri
 

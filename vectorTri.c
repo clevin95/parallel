@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include </home/fas/cpsc424/ahs3/utils/timing/timing.h>
-#include <dummy.h>
+#include "dummy.h"
 #include <math.h>
 
 int main(int argc, const char * argv[]) {
